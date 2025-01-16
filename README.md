@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nico-rocha)
 
-My name is Nicoly Rocha and I'm a Back-end Developer who is passionate about technology, programming and learning new technologies.
+My name is Nico Rocha and I'm a Back-end Developer who is passionate about technology, programming and learning new technologies.
 
 # 🛠 &nbsp;Technologies
 
