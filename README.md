@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nb.nicorocha@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicoly.rochadm@gmail.com">
   <img align="left" alt="nicolyrocha's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
